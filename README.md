@@ -18,3 +18,10 @@
 - Técnico em eletroeletrônica - SENAI
 - Ensino Médio - Maria Cecilia
 
+----
+
+# EXPERIÊNCIA:
+2023 - ATUALMENTE
+- Empresa Paschoalotto:Operador de Tele-Comunicações
+
+- Técnico em eletroeletrônica
