@@ -1,6 +1,6 @@
 # Lucas Lima Domingos
 
----
+----
 
 # DADOS PESSOAIS:
 
@@ -15,14 +15,50 @@
 
 # FORMAÇÃO ACADÊMICA:
 - Analise e desenvolvimento de sistemas - Unimar (cursando)
-- Técnico em eletroeletrônica - SENAI
+- Técnico em Eletroeletrônica / Senai Marília - José Polizotto
 - Ensino Médio - Maria Cecilia
 
 ----
-
 # EXPERIÊNCIA:
-2023 - ATUALMENTE
-- Empresa Paschoalotto:Operador de Tele-Comunicaçõe
+- 2023 - ATUALMENTE
+- Empresa Paschoalotto:Operador de Tele-Comunicações
 - Técnico em eletroeletrônica
 
 ----
+
+# Cursos Adicionais
+
+- DESVENDANDO A BLOCKCHAIN
+- EXCEL BÁSICO
+- EMPREENDER SENAI
+- DESVENDANDO A INDÚSTRIA 4.0
+- PREPARAÇÃO PARA O MUNDO DO TRABALHO
+- DESVENDANDO O 5G COMPETÊNCIA TRANSVERSAL - FINANÇAS PESSOAIS
+- COMPETÊNCIA TRANSVERSAL - FUNDAMENTOS DE LOGÍSTICA
+- ECONOMIA CIRCULAR
+- PRIVACIDADE E PROTEÇÃO DE DADOS (LGPD)
+- COMPETÊNCIA TRANSVERSAL - SEGURANÇA NO TRABALHO
+- TÉCNICO EM ELETROELETRÔNICA
+- INSTALAÇÕES ELÉTRICAS PREDIAIS (IEP)
+- DESENHO TÉCNICO (DET)
+- MANUTENÇÃO DE SISTEMAS ELETROELETRÔNICOS (MSIEL)
+- PLANEJAMENTO E GESTÃO DE RECURSOS (PGER)
+- PROJETOS (PRO)
+- SISTEMAS ELETRÔNICOS DIGITAIS (SELDI) INTEGRAÇÃO DE SISTEMAS ELETROELETRÔNICOS INDUSTRIAIS (ISELI)
+- ELETRICIDADE (ELE)
+- MÁQUINAS ELÉTRICAS E ACIONAMENTOS (MAQ)
+- SISTEMAS ELETROELETRÔNICOS PREDIAIS (SELOP)
+
+---
+# HABILIDADES:
+
+- Boa comunicação
+- Autonomia
+- Resiliência
+
+---
+# IDIOMAS:
+- Inglês intermediário
+- Espanhol intermediário
+
+---
