@@ -22,6 +22,7 @@
 
 # EXPERIÊNCIA:
 2023 - ATUALMENTE
-- Empresa Paschoalotto:Operador de Tele-Comunicações
-
+- Empresa Paschoalotto:Operador de Tele-Comunicaçõe
 - Técnico em eletroeletrônica
+
+----
